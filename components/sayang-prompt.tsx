@@ -96,7 +96,7 @@ export function SayangPrompt() {
               😝
             </div>
             <h2 className="mt-6 text-balance text-5xl font-extrabold tracking-tight text-primary sm:text-6xl">
-              tipuuuu
+              love youuuuuu tooooo 💕
             </h2>
             <p className="mt-4 text-balance leading-relaxed text-muted-foreground">
               Hehe gotcha! Jom cuba sekali lagi 💕
