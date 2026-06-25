@@ -1,6 +1,6 @@
 # Sayang Aku Tak?
 
-A small Next.js page with a playful "Sayang aku tak?" prompt. The page asks the user to pick an answer, makes the "Tak" button dodge the pointer, and briefly shows a "tipuuuu" response when the user chooses the affectionate answer.
+A small Next.js page with a playful "Sayang aku tak?" prompt. The page asks the user to pick an answer, makes the "Tak" button dodge the pointer.
 
 ## Tech Stack
 
